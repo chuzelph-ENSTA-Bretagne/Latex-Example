@@ -1,0 +1,16 @@
+\select@language {UKenglish}
+\contentsline {part}{I\hspace {1em}Regulation}{5}{part.1}
+\contentsline {chapter}{\numberline {1}Sailboat regulation}{6}{chapter.1}
+\contentsline {chapter}{\numberline {2}Generation of field potential}{8}{chapter.2}
+\contentsline {chapter}{\numberline {3}update of the algorithm}{9}{chapter.3}
+\contentsline {part}{II\hspace {1em}A voir}{10}{part.2}
+\contentsline {chapter}{\numberline {4}Presentation of the sail-boat}{11}{chapter.4}
+\contentsline {chapter}{\numberline {5}Choice of the component}{12}{chapter.5}
+\contentsline {section}{\numberline {5.1}Rasberry Pi}{12}{section.5.1}
+\contentsline {section}{\numberline {5.2}IMU Razor}{12}{section.5.2}
+\contentsline {section}{\numberline {5.3}Magnetic stator, wind captor}{13}{section.5.3}
+\contentsline {section}{\numberline {5.4}Servo-motor controller, pololu ship}{13}{section.5.4}
+\contentsline {section}{\numberline {5.5}GPS receiver}{13}{section.5.5}
+\contentsline {chapter}{\numberline {6}Global architecture}{14}{chapter.6}
+\contentsline {part}{III\hspace {1em}A voir}{15}{part.3}
+\contentsline {part}{IV\hspace {1em}Appendix}{16}{part.4}

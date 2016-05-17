@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{jaulin2015robotique}
+Luc Jaulin.
+\newblock {\em La robotique mobile}.
+\newblock ISTE, 2015.
+
+\bibitem{kieffer2000robust}
+Michel Kieffer, Luc Jaulin, {\'E}ric Walter, and Dominique Meizel.
+\newblock Robust autonomous robot localization using interval analysis.
+\newblock {\em Reliable computing}, 6(3):337--362, 2000.
+
+\end{thebibliography}
